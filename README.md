@@ -32,5 +32,3 @@ It features **JWT authentication, role-based access**, and **protected APIs**, w
 ## 🌐 Links
 - **Live Demo:** [Finlytics Dashboard](https://finlytics-dashboard-using-react.vercel.app/)  
 - **GitHub Repository:** [https://github.com/kalyanipatekar](https://github.com/kalyanipatekar)
-
----
